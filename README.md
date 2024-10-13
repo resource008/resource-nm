@@ -1,4 +1,5 @@
-![Screenshot 2024-10-13 125653](https://github.com/user-attachments/assets/3d24c710-6d77-4199-96fc-029a8079e49e)
+![Banner - 1](https://github.com/user-attachments/assets/53c9f1ae-4d64-49ad-8523-9c6c20128fec)
+
 
 Hi! 👋
 
