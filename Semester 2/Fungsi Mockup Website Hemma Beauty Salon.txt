@@ -1,0 +1,75 @@
+Halaman 1: Beranda
+
+Header : Berfungsi sebagai identitas dan layanan yang ada pada Hemma Beauty Salon.
+
+Banner : Berfungsi sebagai penawaran ataupun info yang terbaru dari Hemma Beauty Salon
+
+Judul dan isi : Berfungsi sebagai Judul dan informasi yang ada di Hemma Beauty Salon.
+
+Kartu : Berfungsi sebagai informasi secara sekilas tentang layanan yang ada di Hemma Beauty Salon.
+
+Tombol : Berfungsi untuk mengarahkan pengguna ke halaman web yang lengkap.
+
+Konten gambar / Video : Berfungsi untuk menampilkan gambar kegiatan atau aktivitas yang ada di Hemma Beauty Salon.
+
+Footer : Berfungsi untuk memuat informasi yang ada  dan memberikan sosial media yang dimiliki oleh Hemma Beauty Salon.
+
+
+Halaman 2: Galeri
+
+Header : Berfungsi sebagai identitas dan layanan yang ada pada Hemma Beauty Salon.
+
+Judul dan isi : Berfungsi sebagai Judul dan informasi pada konten yang dibuat.
+
+Foto / Video : Berfungsi untuk menampilkan suatu aktivitas yang dilakukan di Hemma Beauty Salon.
+
+Footer : Berfungsi untuk memuat informasi yang ada  dan memberikan sosial media yang dimiliki oleh Hemma Beauty Salon.
+
+
+Halaman 3: Layanan
+
+Header : Berfungsi sebagai identitas dan layanan yang ada pada Hemma Beauty Salon.
+
+Judul dan isi : Berfungsi sebagai Judul dan informasi pada konten yang dibuat.
+
+Gambar : Berfungsi untuk menampilkan gambar layanan yang ada pada Hemma Beauty Salon.
+
+Judul dan isi : Berfungsi untuk menampilkan Judul dan isi aktivitas dengan sekilas.
+
+Harga : Berfungsi untuk menampilkan harga pada suatu layanan tersebut.
+
+Tombol : Berfungsi untuk memesan layanan tersebut dan akan diarahkan ke kontak WhatsApp Hemma Beauty Salon. 
+
+Ikon dan Judul : Berfungsi untuk membuat judul konten dan melambangkan konten yang dibuat.
+
+Judul : Berfungsi untuk membuat kategori pada konten yang dibuat.
+
+Ikon diskon : Berfungsi untuk melambangkan banyaknya potongan harga pada layanan yang diberikan.
+
+Judul dan isi : Berfungsi sebagai Judul dan informasi pada konten yang dibuat.
+
+Footer : Berfungsi untuk memuat informasi yang ada  dan memberikan sosial media yang dimiliki oleh Hemma Beauty Salon.
+
+
+Halaman 4: Tentang Kami
+
+Judul : Berfungsi untuk membuat judul pada konten yang dibuat.
+
+Ikon dan Judul : Berfungsi untuk menampilkan konten dan melambangkan konten yang dibuat.
+
+-> Pemilik
+
+Gambar : Berfungsi untuk menampilkan foto pemilik Hemma Beauty Salon.
+
+Judul dan isi : Berfungsi untuk menampilkan isi dari pemilik Hemma Beauty Salon dengan sekilas.
+
+-> Pegawai
+
+Gambar : Berfungsi untuk menampilkan foto pegawai Hemma Beauty Salon.
+
+Judul dan isi : Berfungsi untuk menampilkan isi dari pegawai Hemma Beauty Salon dengan sekilas.
+
+-> Testimoni
+Gambar : Berfungsi untuk menampilkan foto pelanggan yang pernah menggunakan layanan Hemma Beauty Salon.
+
+Judul dan isi : Berfungsi untuk menampilkan isi ulasan dan pelanggan Hemma Beauty Salon dengan sekilas.
