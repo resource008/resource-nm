@@ -9,4 +9,4 @@ Anda dapat menggunakan ini sebagai referensi dan DILARANG untuk menggunakan ulan
 
 Berikut cara mengunduh file dari repository:
 
-![1013](https://github.com/user-attachments/assets/a0567737-bf0e-45ac-9de3-dde6d580fa4c)
+https://github.com/user-attachments/assets/bac41569-947c-4669-a6fd-575bcba33198
