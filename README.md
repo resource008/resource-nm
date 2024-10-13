@@ -1,4 +1,6 @@
-Hi!
+![Screenshot 2024-10-13 125653](https://github.com/user-attachments/assets/3d24c710-6d77-4199-96fc-029a8079e49e)
+
+Hi! 👋
 
 Ini adalah source pembelajaran saya.
 
