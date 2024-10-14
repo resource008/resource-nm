@@ -1,4 +1,5 @@
-![Banner - 1](https://github.com/user-attachments/assets/53c9f1ae-4d64-49ad-8523-9c6c20128fec)
+![LinkedIn cover - 1](https://github.com/user-attachments/assets/0eb503c1-3026-4b00-9cab-54ad4ce7c33c)
+
 
 
 Hi! 👋
