@@ -6,5 +6,6 @@ Ini adalah repository sumber pembelajaran saya. Anda dapat menggunakan ini sebag
 Mohon untuk TIDAK menggunakan ulang dokumen ini karna hal itu dapat merugikan saya dan anda.
 
 Berikut cara mengunduh file dari repository ini:
-https://github.com/user-attachments/assets/ef5b32f5-ae90-47ef-b8c3-f45bdf017a18
+
+https://github.com/user-attachments/assets/f6de3346-1439-4d2e-bc26-d36a55780cb4
 
