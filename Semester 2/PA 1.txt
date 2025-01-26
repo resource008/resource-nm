@@ -1,0 +1,10 @@
+Jelaskan karakteristik dari setiap interface produk dengan pengguna produk, yaitu termasuk:
+-	Contoh tampilan layar, 
+Tampilan layar yang dibuat untuk Hemma Beauty Salon cocok digunakan pada Desktop dan untuk Potrait.
+
+-	Standard GUI, 
+Standard untuk GUI nya yang dibuat pada website Hemma Beauty Salon ada header, banner, Judul konten, kartu konten, Gambar / Video, dan Footer nya.
+
+-	Standard tampilan yang harus diikuti termasuk batasan yang ada, 
+standard tombol dan fungsi yang ditampilkan di layar, shortcut keyboard, pesan eror, dan lain lain.
+Standar tampilan nya yaitu ada di bagian tombol dan fungsi yang ditampilkan di layar, yaitu di tombol Lihat selengkapnya pada bagian Layanan dan bagian Galeri di halaman Beranda

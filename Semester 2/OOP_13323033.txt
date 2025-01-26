@@ -1,0 +1,11 @@
+Selamat malam Bapak/Ibu,
+
+Saya Agus Pranata Marpaung (NIM 13323033) ingin mengirimkan link proyek GitHub yang telah diminta:
+
+Video 1 - OOP Dasar Pada PHP:
+URL GitHub: https://github.com/aguspranata005/pabi_oop_php_13323033
+
+Video 2 - PHP MVC:
+URL GitHub: https://github.com/aguspranata005/pabi_php_mvc_13323033
+
+Terima kasih, bapak/ibu 🙏
