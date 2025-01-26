@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.9.3">
+  <diagram name="Page-1" id="fEfEK3lMf5IORS8Htr2S">
+    <mxGraphModel dx="1889" dy="479" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kqiIdmSvPIW-TrbX2fSC-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="kqiIdmSvPIW-TrbX2fSC-1" target="kqiIdmSvPIW-TrbX2fSC-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kqiIdmSvPIW-TrbX2fSC-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Mulai&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-366" y="488" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kqiIdmSvPIW-TrbX2fSC-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="kqiIdmSvPIW-TrbX2fSC-2" target="kqiIdmSvPIW-TrbX2fSC-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kqiIdmSvPIW-TrbX2fSC-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Studi&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Literatur&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-191" y="498" width="143" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kqiIdmSvPIW-TrbX2fSC-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="kqiIdmSvPIW-TrbX2fSC-4" target="kqiIdmSvPIW-TrbX2fSC-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kqiIdmSvPIW-TrbX2fSC-4" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Perancangan&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Sistem&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="7" y="498" width="144" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kqiIdmSvPIW-TrbX2fSC-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="kqiIdmSvPIW-TrbX2fSC-6" target="kqiIdmSvPIW-TrbX2fSC-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kqiIdmSvPIW-TrbX2fSC-6" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Implementasi&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="214" y="498" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kqiIdmSvPIW-TrbX2fSC-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="kqiIdmSvPIW-TrbX2fSC-8" target="kqiIdmSvPIW-TrbX2fSC-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kqiIdmSvPIW-TrbX2fSC-8" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Pengujjian&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="407" y="498" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kqiIdmSvPIW-TrbX2fSC-13" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="kqiIdmSvPIW-TrbX2fSC-10" target="kqiIdmSvPIW-TrbX2fSC-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kqiIdmSvPIW-TrbX2fSC-10" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Analisis dan&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Evaluasi&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="591" y="498" width="156" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kqiIdmSvPIW-TrbX2fSC-12" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Selesai&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="803" y="488" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
